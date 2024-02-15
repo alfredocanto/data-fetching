@@ -1,0 +1,14 @@
+hi john how you doing man
+
+okay, just let me update you in the current situation
+
+okay, so this week we made pretty huge achievements.
+i was able to crack all the company list from notice.
+we now have in our power the data for over 6 thousand companies. (two hundred thousand lines of raw data)
+i already gave ali and shaopeng the task of dumping those registers into a database. the next step once that is done will be to scrape the prices. afortunately i can use the same aproach for the prices. so half is already done
+
+
+After the companies are stored in the database, I will create a prototype to scrape prices from notice. Once this prototype is functional, we should discuss purchasing the premium version to ensure access to up-to-date prices
+
+As for 'augment', we still can't move forward until they fix the charts
+
